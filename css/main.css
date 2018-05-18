@@ -1823,7 +1823,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff6ec1;
+  background: #e8ffed;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2992,7 +2992,7 @@ pre .javascript .function {
 }
 @media screen and (min-width: 1200px) {
   body {
-    background-image: url("/images/back.jpg");
+    background-image: url("/images/back2.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: 50% 50%;
@@ -3106,4 +3106,14 @@ pre .addition {
 }
 pre .deletion {
   background: #ffeef0;
+}
+.hider_title {
+  font-family: "Microsoft Yahei";
+  cursor: pointer;
+}
+.close:after {
+  content: "▼";
+}
+.open:after {
+  content: "▲";
 }
