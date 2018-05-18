@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lcentury.github.io/"/>
-  <updated>2018-05-17T09:08:35.253Z</updated>
+  <updated>2018-05-18T00:56:43.959Z</updated>
   <id>http://lcentury.github.io/</id>
   
   <author>
@@ -17,20 +17,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://lcentury.github.io/2018/05/17/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3/"/>
-    <id>http://lcentury.github.io/2018/05/17/新建文本文档/</id>
-    <published>2018-05-17T03:45:58.699Z</published>
-    <updated>2018-05-17T09:08:35.253Z</updated>
-    
-    <content type="html"><![CDATA[<p>11111ad<br>ad<br>a<br>wd<br>aw<br>d<br>aw<br>d<br>aw<br>d<br>aw<br>d<br>aw<br>d<br>aw<br>d<br>aw<br>d<br>awd<br>aw<br>d<br>aw<br>d<br>aw<br>d<br>w<br>d<br>a<br>d<br>aw<br>d<br>aw<br>d<br>a<br>w<br>d<br>aw<br>d<br>aw<br>d<br>a<br>d<br>a<br>wd</p><p>w<br>d</p><p>ad<br>aw<br>d<br>a<br>d<br>a<br>wd<br>awd</p>]]></content>
+    <title>测试blog</title>
+    <link href="http://lcentury.github.io/2018/05/18/%E6%B5%8B%E8%AF%95blog/"/>
+    <id>http://lcentury.github.io/2018/05/18/测试blog/</id>
+    <published>2018-05-18T00:56:43.000Z</published>
+    <updated>2018-05-18T00:56:43.959Z</updated>
     
     <summary type="html">
-    
-      
-      
-        &lt;p&gt;11111ad&lt;br&gt;ad&lt;br&gt;a&lt;br&gt;wd&lt;br&gt;aw&lt;br&gt;d&lt;br&gt;aw&lt;br&gt;d&lt;br&gt;aw&lt;br&gt;d&lt;br&gt;aw&lt;br&gt;d&lt;br&gt;aw&lt;br&gt;d&lt;br&gt;aw&lt;br&gt;d&lt;br&gt;aw&lt;br&gt;d&lt;br&gt;awd&lt;br&gt;aw&lt;br&gt;d&lt;br&gt;aw&lt;br&gt;d&lt;br&gt;aw&lt;
-      
     
     </summary>
     
@@ -38,24 +31,24 @@
   </entry>
   
   <entry>
-    <title></title>
-    <link href="http://lcentury.github.io/2018/05/17/%E6%96%B0%E7%9A%84%E5%8D%9A%E5%AE%A2%EF%BC%81/"/>
-    <id>http://lcentury.github.io/2018/05/17/新的博客！/</id>
-    <published>2018-05-17T03:40:25.594Z</published>
-    <updated>2018-05-17T03:53:09.341Z</updated>
+    <title>xxxx</title>
+    <link href="http://lcentury.github.io/2018/05/18/%E9%87%8D%E6%96%B0%E5%BC%80%E5%A7%8B%E7%9A%84blog%E7%94%9F%E6%B4%BB/"/>
+    <id>http://lcentury.github.io/2018/05/18/重新开始的blog生活/</id>
+    <published>2018-05-18T00:00:02.073Z</published>
+    <updated>2018-05-18T01:04:18.322Z</updated>
     
-    <content type="html"><![CDATA[<p>aaa!<br>wwww!<br>ssss!</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="重新开始的blog生活"><a href="#重新开始的blog生活" class="headerlink" title="重新开始的blog生活"></a>重新开始的blog生活</h1><h2 id="仅此而已"><a href="#仅此而已" class="headerlink" title="仅此而已"></a>仅此而已</h2><p><strong>这是粗体</strong><br><em>这是斜体</em></p><hr><p>测试</p><hr><p>####温馨</p><p> | 推送人 | 推送时间 |推送内容|</p><p> |  |  |<br> |  |  |</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;aaa!&lt;br&gt;wwww!&lt;br&gt;ssss!&lt;/p&gt;
-
-      
+      new blog
     
     </summary>
     
+      <category term="oi" scheme="http://lcentury.github.io/categories/oi/"/>
+    
+    
+      <category term="网络流" scheme="http://lcentury.github.io/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/"/>
     
   </entry>
   
