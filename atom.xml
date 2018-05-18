@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lcentury.github.io/"/>
-  <updated>2018-05-18T00:56:43.959Z</updated>
+  <updated>2018-05-18T02:52:35.444Z</updated>
   <id>http://lcentury.github.io/</id>
   
   <author>
@@ -17,38 +17,22 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>测试blog</title>
-    <link href="http://lcentury.github.io/2018/05/18/%E6%B5%8B%E8%AF%95blog/"/>
-    <id>http://lcentury.github.io/2018/05/18/测试blog/</id>
-    <published>2018-05-18T00:56:43.000Z</published>
-    <updated>2018-05-18T00:56:43.959Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>xxxx</title>
+    <title>重新开始的blog</title>
     <link href="http://lcentury.github.io/2018/05/18/%E9%87%8D%E6%96%B0%E5%BC%80%E5%A7%8B%E7%9A%84blog%E7%94%9F%E6%B4%BB/"/>
     <id>http://lcentury.github.io/2018/05/18/重新开始的blog生活/</id>
     <published>2018-05-18T00:00:02.073Z</published>
-    <updated>2018-05-18T01:04:18.322Z</updated>
+    <updated>2018-05-18T02:52:35.444Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="重新开始的blog生活"><a href="#重新开始的blog生活" class="headerlink" title="重新开始的blog生活"></a>重新开始的blog生活</h1><h2 id="仅此而已"><a href="#仅此而已" class="headerlink" title="仅此而已"></a>仅此而已</h2><p><strong>这是粗体</strong><br><em>这是斜体</em></p><hr><p>测试</p><hr><p>####温馨</p><p> | 推送人 | 推送时间 |推送内容|</p><p> |  |  |<br> |  |  |</p>]]></content>
+    <content type="html"><![CDATA[<p>如果你有机会回到一年之前</p><p>你会做些什么？</p>]]></content>
     
     <summary type="html">
     
-      new blog
+      first blog
     
     </summary>
     
-      <category term="oi" scheme="http://lcentury.github.io/categories/oi/"/>
+      <category term="总结" scheme="http://lcentury.github.io/categories/%E6%80%BB%E7%BB%93/"/>
     
-    
-      <category term="网络流" scheme="http://lcentury.github.io/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/"/>
     
   </entry>
   
